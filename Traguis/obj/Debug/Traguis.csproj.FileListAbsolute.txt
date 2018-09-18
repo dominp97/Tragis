@@ -1,0 +1,22 @@
+C:\Users\dpeiro\source\repos\Traguis\Traguis\bin\Debug\Traguis.exe.config
+C:\Users\dpeiro\source\repos\Traguis\Traguis\bin\Debug\Traguis.exe
+C:\Users\dpeiro\source\repos\Traguis\Traguis\bin\Debug\Traguis.pdb
+C:\Users\dpeiro\source\repos\Traguis\Traguis\obj\Debug\Traguis.csprojResolveAssemblyReference.cache
+C:\Users\dpeiro\source\repos\Traguis\Traguis\obj\Debug\Traguis.Traguis.resources
+C:\Users\dpeiro\source\repos\Traguis\Traguis\obj\Debug\Traguis.Properties.Resources.resources
+C:\Users\dpeiro\source\repos\Traguis\Traguis\obj\Debug\Traguis.csproj.GenerateResource.cache
+C:\Users\dpeiro\source\repos\Traguis\Traguis\obj\Debug\Traguis.csproj.CoreCompileInputs.cache
+C:\Users\dpeiro\source\repos\Traguis\Traguis\obj\Debug\Traguis.exe
+C:\Users\dpeiro\source\repos\Traguis\Traguis\obj\Debug\Traguis.pdb
+C:\Users\dpeiro\source\repos\Traguis\Traguis\obj\Debug\Traguis.Form2.resources
+C:\Users\aldop\Documents\Cpia curro\C\Users\dpeiro\source\repos\Traguis\Traguis\bin\Debug\Traguis.exe.config
+C:\Users\aldop\Documents\Cpia curro\C\Users\dpeiro\source\repos\Traguis\Traguis\bin\Debug\Traguis.exe
+C:\Users\aldop\Documents\Cpia curro\C\Users\dpeiro\source\repos\Traguis\Traguis\bin\Debug\Traguis.pdb
+C:\Users\aldop\Documents\Cpia curro\C\Users\dpeiro\source\repos\Traguis\Traguis\obj\Debug\Traguis.csprojAssemblyReference.cache
+C:\Users\aldop\Documents\Cpia curro\C\Users\dpeiro\source\repos\Traguis\Traguis\obj\Debug\Traguis.Traguis.resources
+C:\Users\aldop\Documents\Cpia curro\C\Users\dpeiro\source\repos\Traguis\Traguis\obj\Debug\Traguis.Form2.resources
+C:\Users\aldop\Documents\Cpia curro\C\Users\dpeiro\source\repos\Traguis\Traguis\obj\Debug\Traguis.Properties.Resources.resources
+C:\Users\aldop\Documents\Cpia curro\C\Users\dpeiro\source\repos\Traguis\Traguis\obj\Debug\Traguis.csproj.GenerateResource.cache
+C:\Users\aldop\Documents\Cpia curro\C\Users\dpeiro\source\repos\Traguis\Traguis\obj\Debug\Traguis.csproj.CoreCompileInputs.cache
+C:\Users\aldop\Documents\Cpia curro\C\Users\dpeiro\source\repos\Traguis\Traguis\obj\Debug\Traguis.exe
+C:\Users\aldop\Documents\Cpia curro\C\Users\dpeiro\source\repos\Traguis\Traguis\obj\Debug\Traguis.pdb

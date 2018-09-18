@@ -1,0 +1,10 @@
+C:\Users\dpeiro\source\repos\Traguis\Traguis\bin\Release\Traguis.exe.config
+C:\Users\dpeiro\source\repos\Traguis\Traguis\bin\Release\Traguis.exe
+C:\Users\dpeiro\source\repos\Traguis\Traguis\bin\Release\Traguis.pdb
+C:\Users\dpeiro\source\repos\Traguis\Traguis\obj\Release\Traguis.csprojResolveAssemblyReference.cache
+C:\Users\dpeiro\source\repos\Traguis\Traguis\obj\Release\Traguis.Traguis.resources
+C:\Users\dpeiro\source\repos\Traguis\Traguis\obj\Release\Traguis.Properties.Resources.resources
+C:\Users\dpeiro\source\repos\Traguis\Traguis\obj\Release\Traguis.csproj.GenerateResource.cache
+C:\Users\dpeiro\source\repos\Traguis\Traguis\obj\Release\Traguis.csproj.CoreCompileInputs.cache
+C:\Users\dpeiro\source\repos\Traguis\Traguis\obj\Release\Traguis.exe
+C:\Users\dpeiro\source\repos\Traguis\Traguis\obj\Release\Traguis.pdb
